@@ -1,0 +1,1 @@
+A simple notebook setting up a multi-population demographic model and sampling a large cohort from one or multiple populations - explores the numbers and frequencies of new variants discovered in larger cohorts depending on which population is sampled from.
