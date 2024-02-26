@@ -1,0 +1,6 @@
+msprime
+tskit
+demes
+demesdraw
+numpy
+matplotlib
